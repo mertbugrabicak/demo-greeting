@@ -1,4 +1,4 @@
-package com.mertbugrabicak;
+package com.mertbugrabicak.demo;
 
 public class Greeting {
 
